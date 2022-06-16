@@ -1,0 +1,10 @@
+h1 {
+    color: rosybrown;
+}
+:host ::ng-deep p{
+    color: crimson;
+    background-color: thistle;
+    font-size: 1.0em;
+    font-weight: bold;
+    
+}
